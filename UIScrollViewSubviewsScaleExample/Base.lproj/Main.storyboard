@@ -27,13 +27,6 @@
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                     </view>
-                                    <button autoresizesSubviews="NO" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="RRv-k2-eKU">
-                                        <rect key="frame" x="147" y="272" width="25" height="25"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" image="icon_button_productOverlay.png">
-                                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                        </state>
-                                    </button>
                                 </subviews>
                                 <rect key="contentStretch" x="0.5" y="0.5" width="1" height="1"/>
                                 <connections>
@@ -55,7 +48,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="icon_button_productOverlay.png" width="25" height="25"/>
         <image name="rockformationswallpapercollectionforiphoneseriesone11.jpg" width="320" height="568"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
